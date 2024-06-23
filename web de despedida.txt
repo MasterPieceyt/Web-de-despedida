@@ -1,0 +1,17 @@
+<html>
+<title> Web de despedida </title>
+<body BGCOLOR="FFE677">
+<CENTER><TABLE BORDER="3" WIDTH="60%">
+<TR>
+<TD COLSPAN="2" ALIGN="CENTER" BGCOLOR="#FFFFCC">
+<H2><CENTER>ESTA WEB SE LA DEDICO AL PROFESOR <font color="dark blue">DON ANTONIO</font> <p>DE PARTE DE <font color="green">DANIEL PERERA</font></H2></CENTER></TD>
+</TR> 
+<TR>
+<TD BGCOLOR="#FFFFCC">Nos remontamos hasta la clase de 2º, donde nos conocimos por primera vez.
+
+</TD>
+
+
+</table>
+</body>
+</html>
